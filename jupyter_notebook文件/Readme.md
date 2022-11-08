@@ -37,9 +37,11 @@
 
 # 使用说明
 
- 1、首先逐步运行DuConv_DataProcess.ipynb文件来进行数据预处理，从而将gz类型的数据集下载到本地并进行处理，最终生成mindrecord类型的训练集、验证集和测试集。
+1、运行之前请先自己删除data、kernel_meta、output、rank_0和save_model文件夹，只保留俩个ipynb文件和说明文档
 
-2、逐步运行DuConv_train_predict.ipynb文件来完成模型的训练和预测，训练完成的模型存在save_model目录下，预测出的结果以及评分存在output目录下。最终对预测的结果的各项指标进行评估，并将评估结果打印出来。
+2、首先逐步运行DuConv_DataProcess.ipynb文件来进行数据预处理，从而将gz类型的数据集下载到本地并进行处理，最终生成mindrecord类型的训练集、验证集和测试集。
+
+3、逐步运行DuConv_train_predict.ipynb文件来完成模型的训练和预测，训练完成的模型存在save_model目录下，预测出的结果以及评分存在output目录下。最终对预测的结果的各项指标进行评估，并将评估结果打印出来。
 
 
 
