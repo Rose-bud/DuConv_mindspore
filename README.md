@@ -59,7 +59,7 @@ bash scripts/run_predict.sh
 执行jupyter.py即可得到predict.txt和score.txt.
 
 ## Citing
-### BibTex
+### Bibtex
 
 ```bibtex
 @misc{DuConv_mindspore,
