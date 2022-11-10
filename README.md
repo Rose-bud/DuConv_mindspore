@@ -57,3 +57,17 @@ bash scripts/run_predict.sh
 ***********************************************************************
 在配置和用法一一样的环境和数据集情况下；
 执行jupyter.py即可得到predict.txt和score.txt.
+
+## Citing
+### BibTex
+
+```bibtex
+@misc{DuConv_mindspore,
+  auther = {lvyufeng},
+  year = {2021},
+  publisher = {Github}
+  journal = {DuConv_mindspore},
+  howpublished = {\url{https://github.com/lvyufeng/DuConv_mindspore.git}}
+  }
+  
+
