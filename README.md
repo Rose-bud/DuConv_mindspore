@@ -1,4 +1,4 @@
-#DuConv论文链接：https://arxiv.org/abs/1906.05572v2
+《Proactive Human-Machine Conversation with Explicit Conversation Goals》#DuConv论文链接：https://arxiv.org/abs/1906.05572v2
 
 
 
